@@ -170,7 +170,7 @@ public class ColorfulActivity extends BaseActivity implements
     public void onCalendarSelect(Calendar calendar, boolean isClick) {
         mTextLunar.setVisibility(View.VISIBLE);
         mTextYear.setVisibility(View.VISIBLE);
-        mTextMonthDay.setText(calendar.getMonth() + "月" + calendar.getDay() + "日");
+        mTextMonthDay.setText("Tháng" + calendar.getMonth() + "Ngày" + calendar.getDay());
         mTextYear.setText(String.valueOf(calendar.getYear()));
         mTextLunar.setText(calendar.getLunar());
         mYear = calendar.getYear();

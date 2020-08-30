@@ -1,18 +1,18 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="cv_app_name">CalendarView</string>
     <string-array name="lunar_first_of_month">
-        <item>春节</item>
-        <item>二月</item>
-        <item>三月</item>
-        <item>四月</item>
-        <item>五月</item>
-        <item>六月</item>
-        <item>七月</item>
-        <item>八月</item>
-        <item>九月</item>
-        <item>十月</item>
-        <item>冬月</item>
-        <item>腊月</item>
+        <item>1/1</item>
+        <item>&#189;</item>
+        <item>&#8531;</item>
+        <item>&#188;</item>
+        <item>1/5</item>
+        <item>1/6</item>
+        <item>1/7</item>
+        <item>1/8</item>
+        <item>1/9</item>
+        <item>1/10</item>
+        <item>1/11</item>
+        <item>1/12</item>
     </string-array>
 
     <string-array name="tradition_festival">
@@ -26,36 +26,36 @@
     </string-array>
 
     <string-array name="lunar_str">
-        <item>初一</item>
-        <item>初二</item>
-        <item>初三</item>
-        <item>初四</item>
-        <item>初五</item>
-        <item>初六</item>
-        <item>初七</item>
-        <item>初八</item>
-        <item>初九</item>
-        <item>初十</item>
-        <item>十一</item>
-        <item>十二</item>
-        <item>十三</item>
-        <item>十四</item>
-        <item>十五</item>
-        <item>十六</item>
-        <item>十七</item>
-        <item>十八</item>
-        <item>十九</item>
-        <item>二十</item>
-        <item>廿一</item>
-        <item>廿二</item>
-        <item>廿三</item>
-        <item>廿四</item>
-        <item>廿五</item>
-        <item>廿六</item>
-        <item>廿七</item>
-        <item>廿八</item>
-        <item>廿九</item>
-        <item>三十</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
     </string-array>
 
     <string-array name="solar_festival" tools:ignore="InconsistentArrays">
@@ -80,30 +80,30 @@
     </string-array>
 
     <string-array name="solar_term">
-        <item>春分</item>
-        <item>清明</item>
-        <item>谷雨</item>
-        <item>立夏</item>
-        <item>小满</item>
-        <item>芒种</item>
-        <item>夏至</item>
-        <item>小暑</item>
-        <item>大暑</item>
-        <item>立秋</item>
-        <item>处暑</item>
-        <item>白露</item>
-        <item>秋分</item>
-        <item>寒露</item>
-        <item>霜降</item>
-        <item>立冬</item>
-        <item>小雪</item>
-        <item>大雪</item>
-        <item>冬至</item>
-        <item>小寒</item>
-        <item>大寒</item>
-        <item>立春</item>
-        <item>雨水</item>
-        <item>惊蛰</item>
+        <item>Xuân Phân</item>
+        <item>Thanh Minh</item>
+        <item>Cốc Vũ</item>
+        <item>Lập Hạ</item>
+        <item>Tiểu Mãn</item>
+        <item>Mang Chủng</item>
+        <item>Hạ Chí</item>
+        <item>Tiểu Thử</item>
+        <item>Đại Thử</item>
+        <item>Lập Thu</item>
+        <item>Xử Thử</item>
+        <item>Bạch Lộ</item>
+        <item>Thu Phân</item>
+        <item>Hàn Lộ</item>
+        <item>Sương Giáng</item>
+        <item>Lập Đông</item>
+        <item>Tiểu Tuyết</item>
+        <item>Đại Tuyết</item>
+        <item>Đông Chí</item>
+        <item>Tiểu Hàn</item>
+        <item>Đại Hàn</item>
+        <item>Lập Xuân</item>
+        <item>Vũ Thủy</item>
+        <item>Kinh Trập</item>
     </string-array>
 
     <string-array name="special_festivals">
